@@ -3,13 +3,14 @@ layout: default
 title: Home
 nav_order: 1
 permalink: /
-description: "Documentation for the GriefPrevention Bukkit plugin."
+description: "Documentation for the Legacy version of the GriefPrevention Bukkit plugin."
 ---
 
 # GriefPrevention Legacy Documentation
 
 Welcome to the legacy (v16) documentation for the GriefPrevention Bukkit plugin.
 
+{: .note }
 GriefPrevention versions 16.x will continue to be maintained alongside newer versions of GriefPrevention. If you're looking for documentation of GriefPrevention version 17 or later, check <https://docs.griefprevention.com>
 
 GriefPrevention is a Bukkit plugin, and therefore is compatible with the following Minecraft **server** modifications:
